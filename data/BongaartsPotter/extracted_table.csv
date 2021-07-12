@@ -1,0 +1,51 @@
+# first step: extraction from graph.
+# second step: linkage with values given in Table 1 of Bongaarts 1983
+# + reorder
+BANY, A, country, SurveyYear, note, DHS_CountryCode_mod
+26.5, 24.0,Indonesia,,Mojolama [rural], ID
+26.0, 20.0,Zaire,, rural, CD
+24.0, 18.9, Bangladesh, , Matlab [rural], BD
+27.1, 14.8,Taiwan,,national_b5,
+21.8, 17.9, Zaire,1969,Idjiwi [rural], CD
+24.3, 14.7,Senegal,,rural_all, SN
+23.0, 13.5, Korea,,Seoul city [urban],
+21.5, 13.5,Taiwan,,national_b4,
+19.2, 14.8,Guatemala,1972, rural 1970-1974,GU
+18.8, 13.8,Zaire,1969, Ngweshe [rural],CD
+18.4, 12.8,Senegal,1965,Pikine 1960-1969 [urban],SN
+16.5, 11.9,India,,Bombay [urban],IA_west
+15.5, 11.8,Taiwan,,national_b3,
+16.1, 10.1,Taiwan,,national_all,
+15.5, 9.0,Zaire,1971,Bukavu [urban],CD
+12.2, 8.1, Nigeria,1976, Lagos [urban] - uncertain date,NG
+11.0, 5.2, Egypt,,cities [urban],EG
+11.9, 5.2,Philippines,,rural_all,PH
+9.5, 5.2,Taiwan,,national_b2,
+9.0, 3.7,Turkey,,cities [urban],TR
+8.0, 4.3,Thailand,,cities [urban],TH
+6.0, 2.9,ColombiaVenezuela,,cities [urban],CO,
+3.5, 2.8,Taiwan,,national_b1,
+1.5, 2.3,Boston_all,,[urban],
+0, 1.8,Taiwan,,national_b0,
+34.86845418312014, 24.089496600811877,,,,
+31.857823659823268, 20.954505536347057,,,,
+28.757285071207946, 20.33466803412085,,,,
+25.71551835315938, 22.107588756578828,,,,
+27.186841733555234, 19.595260174534648,,,,
+25.633164039230383, 17.751592121990015,,,,
+22.57315777514386, 15.506070636787383,,,,
+21.07161938919015, 15.50300000614126,,,,
+17.556729901187104, 12.888450129887678,,,,
+19.52439001922215, 11.696154956304925,,,,
+16.57769002597754, 11.383380518690927,,,,
+15.018300958650887, 11.56424066374752,,,,
+21.012663280784608, 10.594903981379694,,,,
+14.524359312915688, 7.943598656292028,,,,
+13.538871113349263, 8.401706042386984,,,,
+11.534731903238288, 6.557116800648519,,,,
+8.591716666769022, 6.551098364582117,,,,
+9.067050290788723, 6.12262256422224,,,,
+4.541063543630591, 4.334225863307804,,,,
+4.538852689565383, 4.150172262379247,,,,
+5.547002143300192, 3.0786142858020185,,,,
+2.537292809197152, 2.5203122217240974,,,,
